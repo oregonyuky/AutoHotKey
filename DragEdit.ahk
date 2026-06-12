@@ -25,7 +25,7 @@ Return
 $f::
 Send, {l down}
 While GetKeyState("f", "P")
-    Continuevv
+    Continue
 Send, {l up}
 Send, {f}
 Return
